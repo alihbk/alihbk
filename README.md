@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PropertyAgentOnline](PropertyAgentOnline.com)
 
-- 💬 Ask me about **Reactjs , Nextjs , React-Native**
+- 💬 Ask me about **Reactjs , Nextjs , React-Native , Nodejs **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
