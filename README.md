@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Adib</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-- 🔭 I’m currently working on [PropertyAgentOnline](PropertyAgentOnline.com)
-
 - 💬 Ask me about **Reactjs , Nextjs , React-Native , Nodejs **
 
 <h3 align="left">Connect with me:</h3>
