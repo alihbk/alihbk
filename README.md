@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Adib</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 💬 Ask me about **Reactjs , Nextjs , React-Native , Nodejs **
+- 💬 Ask me about **Reactjs , Nextjs , React-Native  **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
